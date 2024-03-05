@@ -1,0 +1,2 @@
+# pizdos
+pizdos npm
